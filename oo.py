@@ -6,7 +6,3 @@ else:
     print("en efecto")
     #cojfala
 print(" demasiado")
-# inpresiaantle 
-for i in range:
-    (1,10)
-    print(i)
